@@ -1,1 +1,4 @@
 Some cool code!
+This is FeatureA
+Another Line
+something else
